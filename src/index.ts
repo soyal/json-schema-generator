@@ -3,6 +3,6 @@ export default function main(jsonObj: object) {
     throw new Error('jsonObj should be a object')
   }
 
-  const schema = parse
+  // const schema = parse
 }
 
